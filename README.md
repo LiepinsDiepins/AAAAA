@@ -15,8 +15,15 @@ composer create-project laravel/laravel name
 
 
 -----GIT COMMITS -- JĀbūt ir main, nevisk kadam SIGMAA
+
 git init 
+
 git add .
+
 git commit -m "Initial commit"
+
 git remote add origin URL
+
+git branch -m main
+
 git push -u origin main
