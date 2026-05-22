@@ -11,3 +11,12 @@ composer create-project laravel/laravel name
  ---Komanda composer install palīdz atgūt vendor mapi
 
  ---Komanda php artisan key:generate izveido projekta atslēgu
+
+
+
+-----GIT COMMITS -- JĀbūt ir main, nevisk kadam SIGMAA
+git init 
+git add .
+git commit -m "Initial commit"
+git remote add origin URL
+git push -u origin main
