@@ -27,3 +27,8 @@ git remote add origin URL
 git branch -m main
 
 git push -u origin main
+
+Komanda :
+
+php artisan make:model ModelName --------- ļauj izveidot jaunu modeli, kurš manto visas modeļu īpašības no Laravel klases Model
+
