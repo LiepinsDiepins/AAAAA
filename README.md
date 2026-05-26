@@ -32,3 +32,8 @@ Komanda :
 
 php artisan make:model ModelName --------- ļauj izveidot jaunu modeli, kurš manto visas modeļu īpašības no Laravel klases Model
 
+Kontrolieri iespējams izveidot ar komandu 
+
+php artisan make:controller ModelNameController
+
+Komanda php artisan make:model ModelName -mc   ---------   ļauj izveidot vienā piegājienā modeli, migrāciju un kontrolieri!
